@@ -1,6 +1,6 @@
 // Pizzeria Configuration - Fixed Text Strings
 class PizzaConfig {
-  static const String welcomeMsg = "=== Welcome to the Mario Bros Pizzeria Terminal ===";
+  static const String welcomeMsg = "=== Welcome to the Super Mario Bros Pizzeria Terminal ===";
   static const String menuHeader = "--- PIZZA APP MENU ---";
   static const String option1 = "1. View Menu & Prices";
   static const String option2 = "2. Add Pizza to Order Cart";
