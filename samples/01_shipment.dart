@@ -23,6 +23,7 @@ void main() {
     print(ShipmentConfig.option5);
     print(ShipmentConfig.option6);
     print(ShipmentConfig.option7);
+    print("Helo world");
     
     stdout.write(ShipmentConfig.selectPrompt);
 
